@@ -31,9 +31,9 @@ Clone the repository:
 git clone https://github.com/EsrefPivcic/SmartGarage
 ```
 
-- Train and modify the FOMO model as needed on the Edge Impulse platform, or use the provided pre-trained model (libraries).
+- Train and modify the FOMO model as needed on the Edge Impulse platform, or use the provided pre-trained model (```libraries/SmartGarageESP32Cam_inferencing```).
 - Set up the ESP32-CAM and ESP-12F modules with the provided code (specify your ```WIFI_SSID``` and ```WIFI_PASSWORD```, as well as Firebase ```API_KEY``` and ```DATABASE_URL```).
-- Build the Flutter mobile app and connect it to the Firebase project (```MobileApp/smart_garage/android/app/google-services.json``` and ```MobileApp/smart_garage/android/app/src/main/res/values/values.xml```).
+- Build the Flutter mobile app and connect it to the Firebase project (```mobile_app/smart_garage/android/app/google-services.json``` and ```mobile_app/smart_garage/android/app/src/main/res/values/values.xml```).
 
 ## Screenshots
 
