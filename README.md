@@ -35,6 +35,19 @@ git clone https://github.com/EsrefPivcic/SmartGarage
 - Set up the ESP32-CAM and ESP-12F modules with the provided code (specify your ```WIFI_SSID``` and ```WIFI_PASSWORD```, as well as Firebase ```API_KEY``` and ```DATABASE_URL```).
 - Build the Flutter mobile app and connect it to the Firebase project (```MobileApp/smart_garage/android/app/google-services.json``` and ```MobileApp/smart_garage/android/app/src/main/res/values/values.xml```).
 
+## Screenshots
+
+<details>
+  <summary>Mobile App</summary>
+
+  <img src="screenshots/1.png" alt="Screenshot 1" width="250px">
+  <img src="screenshots/2.png" alt="Screenshot 2" width="250px">
+  <img src="screenshots/3.png" alt="Screenshot 3" width="250px">
+  <img src="screenshots/4.png" alt="Screenshot 4" width="250px">
+  <img src="screenshots/5.png" alt="Screenshot 5" width="250px">
+
+</details>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
